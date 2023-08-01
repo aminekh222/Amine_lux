@@ -27,7 +27,6 @@
                     <span class="icon"><ion-icon name="mail-unread"></ion-icon></span>
                     <input type="email"required>
                     <label>Email</label>
-
                 </div>
                 <div class="input-box">
                     <span class="icon"><ion-icon name="lock-closed"></ion-icon></span>
